@@ -1,5 +1,5 @@
 # Finlatics-ML-Case-Project
- Analyzing Facebook Marketplace Engagement and Advertising sales,Wine Quality DataSets using Google Colab.
+ Analyzing Facebook Marketplace Engagement, Advertising sales, and Wine Quality DataSets using Google Colab.
 
 1.Facebook Live Sellers Dataset : 
 
